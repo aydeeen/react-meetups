@@ -9,3 +9,6 @@ npm run dev
 # or
 yarn dev
 ```
+
+And then open the development server in your browser:
+http://localhost:3000/
