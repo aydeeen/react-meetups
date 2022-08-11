@@ -1,8 +1,10 @@
 ## Getting Started
 
-```bash
 URL: https://react-meetups-blue.vercel.app/
 
+First, run the development server:
+
+```bash
 First, run the development server:
 npm run dev
 # or
