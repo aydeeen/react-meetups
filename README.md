@@ -1,6 +1,6 @@
 ## Getting Started
 
-URL: https://react-meetups-blue.vercel.app/
+URL: https://react-meetups-omega-azure.vercel.app/
 
 ```bash
 First, run the development server:
